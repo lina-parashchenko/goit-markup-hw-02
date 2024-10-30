@@ -11,6 +11,8 @@ body {font-family: "Roboto", sans-serif;
   background-color:#2e2f42;}
   .button-service{ background: #4d5ae5;
               cursor: pointer;}
+ .button-service.link:hover,
+ .button-service.link:focus{ color: #404bbf;}
 
 
 
