@@ -9,8 +9,11 @@ body {font-family: "Roboto", sans-serif;
    text-align: center;
     color: #fff;
   background-color:#2e2f42;}
-  .button-service{ background: #4d5ae5;} 
-  .button{cursor: pointer;}
+  .button-service{ background: #4d5ae5;
+              cursor: pointer;}
+
+
+
   .title-section{
     font-weight: 700;
     font-size: 36px;
