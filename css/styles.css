@@ -3,24 +3,40 @@ body {font-family: "Roboto", sans-serif;
     color: #2e2f42;
     background-color: #fff;
 }
-.page-title{font-family: "Roboto", sans-serif;
+.page-title{
     font-weight: 700;
     font-size: 56px;
    text-align: center;
     color: #fff;
   background-color:#2e2f42;}
   .button-service{ background: #4d5ae5;} 
-   .title-description{font-family: "Roboto", sans-serif;
+  .title-section{
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #2e2f42;}
+
+   .title-description{
     font-weight: 500;
     font-size: 20px;
    color: #2e2f42;}
-   .description-text{font-family: "Roboto", sans-serif;
+   .description-text{
     font-weight: 400;
     font-size: 16px;
     color: #434455;}
-.member-team{ font-family: "Roboto", sans-serif;
+.member-team{ 
         font-weight: 500;
         font-size: 20px;
         text-align: center;
         color: #2e2f42;}
         
+.title-description-port{
+    font-weight: 500;
+        font-size: 20px;
+      color: #2e2f42;
+}
+.descr-text{
+    ont-weight: 400;
+        font-size: 16px;
+        color: #434455;
+}
