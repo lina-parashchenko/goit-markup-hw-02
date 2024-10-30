@@ -1,22 +1,24 @@
 body {font-family: "Roboto", sans-serif;
     font-weight: "400";
-    color: #2e2f42;
+    color: #434455;
     background-color: #fff;
 }
-.page-title{
+.page-title{font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
    text-align: center;
     color: #fff;
   background-color:#2e2f42;}
-  .button-service{ background: #4d5ae5;
+
+  .button-service{ font-family: "Roboto", sans-serif;
+    background: #4d5ae5;
               cursor: pointer;}
  .button-service.link:hover,
  .button-service.link:focus{ color: #404bbf;}
 
 
 
-  .title-section{
+  .title-section{font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     text-align: center;
@@ -40,9 +42,14 @@ body {font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 20px;
       color: #2e2f42;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 .descr-text{
     font-weight: 400;
         font-size: 16px;
         color: #434455;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
 }
