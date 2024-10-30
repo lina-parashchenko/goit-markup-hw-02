@@ -22,16 +22,27 @@ body {font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+   background-color: #F4F4FD;
+   line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
 
    .title-description{
     font-weight: 500;
     font-size: 20px;
-   color: #2e2f42;}
+   color: #2e2f42;
+   line-height: 1.2;
+letter-spacing: 0.02em;}
+
    .description-text{
     font-weight: 400;
     font-size: 16px;
-    color: #434455;}
+    color:#434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
+
 .member-team{ 
         font-weight: 500;
         font-size: 20px;
