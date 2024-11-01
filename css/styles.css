@@ -54,6 +54,7 @@ color: #434455;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #fff;
   }
 
@@ -84,12 +85,14 @@ color: #434455;
    line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 }
    .title-desc{
     font-weight: 500;
     font-size: 20px;
    line-height: 1.2;
    letter-spacing: 0.02em;
+   color: #2e2f42;
   background-color: #FFFFFF}
 
 
@@ -115,6 +118,7 @@ text-transform: capitalize;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center
 }
 .descr-text{
     font-weight: 400;
