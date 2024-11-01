@@ -1,5 +1,5 @@
 body {font-family: "Roboto", sans-serif;
-    font-weight: "400";
+    font-weight:400;
     color: #434455;
     background-color: #fff;
 }
@@ -60,7 +60,11 @@ color: #434455;
 
   .button-service{
     background-color:#4d5ae5;
-              cursor: pointer;}
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;}
  .button-service:hover,
  .button-service:focus{background-color: #404BBF;}
 
@@ -81,7 +85,8 @@ text-transform: capitalize;
     font-size: 20px;
    color: #2e2f42;
    line-height: 1.2;
-   letter-spacing: 0.02em;}
+   letter-spacing: 0.02em;
+  background-color: #FFFFFF}
 
 .desc-text{   
     font-weight: 400;
