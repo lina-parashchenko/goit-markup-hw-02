@@ -47,7 +47,15 @@ text-transform: capitalize;
         font-weight: 500;
         font-size: 20px;
         text-align: center;
-        color: #2e2f42;}
+        color: #2e2f42;} 
+
+.desc-member-team{ 
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;}
         
 .title-description-port{
     font-weight: 500;
@@ -64,3 +72,9 @@ text-transform: capitalize;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
+.end-text{font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;}
