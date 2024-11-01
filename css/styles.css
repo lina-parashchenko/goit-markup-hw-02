@@ -69,13 +69,14 @@ color: #434455;
  .button-service:focus{background-color: #404BBF;}
 
 
-
+ .team-list {
+  background-color: #F4F4FD
+ }
   .title-section{font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     text-align: center;
     color: #2e2f42;
-   background-color:#F4F4FD;
    line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -83,7 +84,6 @@ text-transform: capitalize;
    .title-desc{
     font-weight: 500;
     font-size: 20px;
-   color: #2e2f42;
    line-height: 1.2;
    letter-spacing: 0.02em;
   background-color: #FFFFFF}
@@ -99,6 +99,7 @@ text-transform: capitalize;
         font-weight: 500;
         font-size: 20px;
         text-align: center;
+        line-height: 1.2;
         color: #2e2f42;} 
 
 .desc-member-team{ 
