@@ -23,7 +23,7 @@ body {font-family: "Roboto", sans-serif;
   color: #fff;
   }
 
-  .button-service{ inherit;
+  .button-service{
     background:#4d5ae5;
               cursor: pointer;}
  .button-service.link:hover,
@@ -40,12 +40,6 @@ body {font-family: "Roboto", sans-serif;
    line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-}
-.visually-hidden{
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  
 }
    .title-desc{
     font-weight: 500;
