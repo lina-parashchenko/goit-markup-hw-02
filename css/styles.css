@@ -68,7 +68,13 @@ color: #434455;
  .button-service:hover,
  .button-service:focus{background-color: #404BBF;}
 
-
+.desc-text {
+  font-weight: 400;
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
  .team-list {
   background-color: #F4F4FD
  }
@@ -88,12 +94,6 @@ text-transform: capitalize;
    letter-spacing: 0.02em;
   background-color: #FFFFFF}
 
-.desc-text{   
-    font-weight: 400;
-    font-size: 16px;
-    color:#434455;
-    line-height: 1.5;
-    letter-spacing: 0.02em;}
 
 .member-team{ 
         font-weight: 500;
