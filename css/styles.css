@@ -17,6 +17,12 @@ a{text-decoration: none;}
   color: #4d5ae5;}
 
 .header-logo .logo-part {
+  font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
   color:#2e2f42;
 }
 
@@ -129,6 +135,12 @@ text-align: center;
 }
 
 .footer-logo .logo-part{
+  font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
   color: #f4f4fd;;
 }
  .page-end{
